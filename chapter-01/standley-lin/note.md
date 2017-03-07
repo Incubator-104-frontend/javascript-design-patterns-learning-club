@@ -2,7 +2,7 @@
 
 https://webpack.js.org/
 
-##Coding Style
+##coding style
 
 https://github.com/airbnb/javascript
 
