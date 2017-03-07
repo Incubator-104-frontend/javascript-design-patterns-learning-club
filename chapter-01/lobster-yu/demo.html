@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+  <script>
+    //Global Variable 
+    var aa = 'string';
+    (function fn () {
+      bb = 10;
+    })();
+    console.log(aa);
+    console.log(bb);
+
+    delete aa; //false
+    delete bb; //true
+    console.log(aa); //10
+    //console.log(bb); //undifined
+
+    //Variable Hosting
+    var cc = 100;
+    (function () {
+      console.log(cc);
+      var cc = 'haha';
+      console.log(cc);
+    })();
+
+    //Using "hasOwnProperty" enumeration property
+    (function hasOwnDemo () {
+      var man = {
+        head: 1,
+        body: 1,
+        hands: 2,
+        legs: 2
+      }
+      if (typeof Object.prototype.clone === 'undefined') {
+        Object.prototype.clone = function () {};
+      }
+      for (var i in man) {
+        console.log(i, ':', man[i]);
+      }
+      for (var i in man) {
+        if (man.hasOwnProperty(i)) {
+          console.log(i, ':', man[i]);
+        }
+      }
+      for (var i in man) {
+        if (Object.prototype.hasOwnProperty.call(man, i)){
+          console.log(i, ':', man[i]);
+        }
+      }
+      var i,
+        hasOwn = Object.prototype.hasOwnProperty;
+      for (var i in man) if (hasOwn.call(man, i)) {
+        console.log(i, ':', man[i]);
+      }
+    })();
+
+    //Eval and New Function()
+    console.log(typeof un);
+    console.log(typeof deux);
+    console.log(typeof trois);
+    
+    var jsString = 'var un = 1; console.log(un)';
+    eval(jsString);
+
+    jsString = 'var deux = 2; console.log(deux)';
+    new Function (jsString) ();
+
+    jsString = 'var trois = 3; console.log(trois)';
+    (function () {
+      eval(jsString);
+    })();
+
+    console.log(typeof un);
+    console.log(typeof deux);
+    console.log(typeof trois);
+
+  </script>	
+</body>
+</html>
