@@ -11,7 +11,7 @@
 
 ##```this``` 指向，參考資料 (面試通常會被問到)
 
-1. [javascript-this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
+1. [javascript - this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
 
 2. [MDN doc - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
