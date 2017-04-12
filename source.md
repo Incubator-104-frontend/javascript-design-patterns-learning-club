@@ -24,7 +24,16 @@
 
 10. [Allen Chou/ Thinking in Commands: Part 2 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-2-of-2--active-3537) 。
 
-11. []()。
+11. [JavaScript Design Patterns](https://www.joezimjs.com/javascript/javascript-design-patterns-singleton/)。
+
+12. [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/) 。
+
+13. [scott / FunctionalProgramming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)。
+
+14. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
+
+15.
+14. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
 
 
@@ -54,3 +63,21 @@
 ##es6 參考資料
 
 1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
+
+
+##Clean Code
+
+1. [Clean JavaScript:寫出整潔的JavaScript代碼](https://segmentfault.com/a/1190000008039771#articleHeader0)。
+
+
+##React Patterns
+
+1. [reactpatterns](https://github.com/chantastic/reactpatterns.com)。
+
+2. [vasanthk/react-bits](https://github.com/vasanthk/react-bits?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+
+
+
+
+
