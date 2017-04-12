@@ -43,19 +43,19 @@ ES6 [+]
 
 ##Object inheritance
 
-1. [Object.create](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+1. [Object.create](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/create)。
 
-2. [Object.assign](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+2. [Object.assign](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)。
 
-3. [ECMAScript 6: merging objects via Object.assign](http://2ality.com/2014/01/object-assign.html)
+3. [ECMAScript 6: merging objects via Object.assign](http://2ality.com/2014/01/object-assign.html)。
 
-4. [jQuery.extend](https://api.jquery.com/jquery.extend/)
+4. [jQuery.extend](https://api.jquery.com/jquery.extend/)。
 
-5. [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+5. [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)。
 
-6. [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+6. [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)。
 
-7. [JavaScript 的 Object.assign 陷阱](https://jigsawye.com/2015/10/06/javascript-object-assign/)
+7. [JavaScript 的 Object.assign 陷阱](https://jigsawye.com/2015/10/06/javascript-object-assign/)。
 
 
 
@@ -69,46 +69,46 @@ ES6 [+]
 
 ##Redux Pattern
 
-1. [Redux and The Command Pattern](https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7)
+1. [Redux and The Command Pattern](https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7)。
 
-2. [Mastering Meteor + Redux — Syllabus](https://medium.com/modern-user-interfaces/mastering-meteor-redux-syllabus-9bf9e1515cbf)
+2. [Mastering Meteor + Redux — Syllabus](https://medium.com/modern-user-interfaces/mastering-meteor-redux-syllabus-9bf9e1515cbf)。
 
-3. [Redux Patterns and Anti-Patterns](https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc)
+3. [Redux Patterns and Anti-Patterns](https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc)。
 
 
 
 ##React Test
 
-1. [UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b)
+1. [UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b)。
 
 
 
 ##```this``` 指向，參考資料 (面試通常會被問到)
 
-1. [javascript - this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)
+1. [javascript - this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)。
 
-2. [MDN doc - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+2. [MDN doc - this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)。
 
 
 
 ##javascript 函式方法 bind，call，apply (面試通常會被問到)
 
-1. [MDN doc - bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+1. [MDN doc - bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)。
 
-2. [MDN doc - call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+2. [MDN doc - call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)。
 
-3. [MDN doc - apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+3. [MDN doc - apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)。
 
 
 
 ##javascript 型別檢查
 
-1. [javascript 型別檢查](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/typeof)
+1. [javascript 型別檢查](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/typeof)。
 
 
 ##es6 參考資料
 
-1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
+1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)。
 
 
 ##Clean Code
