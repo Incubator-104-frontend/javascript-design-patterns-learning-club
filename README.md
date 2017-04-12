@@ -1,6 +1,9 @@
 # javascript-design-patterns-learning-club
 
 
+##[參考資料](https://github.com/Incubator-104-frontend/javascript-design-patterns-learning-club/blob/master/source.md)
+
+
 ##公告：
 
 ###2017-03-03
