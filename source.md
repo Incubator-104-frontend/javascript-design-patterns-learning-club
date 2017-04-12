@@ -8,6 +8,12 @@
 
 2. [Airbnb JavaScript Style Guide ](https://github.com/airbnb/javascript) 。
 
+3. [JavaScript Language Reference](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference) 。
+
+4. [developers google web](https://developers.google.com/web/) 。
+
+5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide)
+
 
 ##```this``` 指向，參考資料 (面試通常會被問到)
 
