@@ -12,7 +12,20 @@
 
 4. [developers google web](https://developers.google.com/web/) 。
 
-5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide)
+5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide) 。
+
+6. [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)。
+
+7. [JS函數式編程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details) 。
+
+8. [JavaScript Design Patterns](http://www.dofactory.com/javascript/design-patterns) 。
+
+9. [Allen Chou/ Thinking in Commands: Part 1 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-1-of-2--active-3383) 。
+
+10. [Allen Chou/ Thinking in Commands: Part 2 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-2-of-2--active-3537) 。
+
+11. []()。
+
 
 
 ##```this``` 指向，參考資料 (面試通常會被問到)
