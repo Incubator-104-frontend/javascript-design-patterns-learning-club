@@ -4,6 +4,8 @@
 
 #參考資料
 
+ES 5:
+
 1. [javascript-patterns](http://shichuan.github.io/javascript-patterns/)。
 
 2. [Airbnb JavaScript Style Guide ](https://github.com/airbnb/javascript) 。
@@ -32,8 +34,52 @@
 
 14. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
-15.
-14. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
+15. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
+
+ES6 [+]
+
+1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
+
+
+##Object inheritance
+
+1. [Object.create](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+
+2. [Object.assign](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+
+3. [ECMAScript 6: merging objects via Object.assign](http://2ality.com/2014/01/object-assign.html)
+
+4. [jQuery.extend](https://api.jquery.com/jquery.extend/)
+
+5. [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+
+6. [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+
+7. [JavaScript 的 Object.assign 陷阱](https://jigsawye.com/2015/10/06/javascript-object-assign/)
+
+
+
+##React Pattern
+
+1. [reactpatterns](https://github.com/chantastic/reactpatterns.com)。
+
+2. [vasanthk/react-bits](https://github.com/vasanthk/react-bits?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)。
+
+
+
+##Redux Pattern
+
+1. [Redux and The Command Pattern](https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7)
+
+2. [Mastering Meteor + Redux — Syllabus](https://medium.com/modern-user-interfaces/mastering-meteor-redux-syllabus-9bf9e1515cbf)
+
+3. [Redux Patterns and Anti-Patterns](https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc)
+
+
+
+##React Test
+
+1. [UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b)
 
 
 
@@ -70,11 +116,6 @@
 1. [Clean JavaScript:寫出整潔的JavaScript代碼](https://segmentfault.com/a/1190000008039771#articleHeader0)。
 
 
-##React Patterns
-
-1. [reactpatterns](https://github.com/chantastic/reactpatterns.com)。
-
-2. [vasanthk/react-bits](https://github.com/vasanthk/react-bits?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 
 
