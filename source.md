@@ -37,7 +37,7 @@
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
 
-##Object inheritance
+## Object inheritance
 
 1. [Object.create](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/create)。
 
