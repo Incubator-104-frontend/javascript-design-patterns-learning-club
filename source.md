@@ -2,43 +2,43 @@
 
 * ES 5:
 
++ OOP 物件導向
+
+
 1. [javascript-patterns](http://shichuan.github.io/javascript-patterns/)。
 
-2. [Airbnb JavaScript Style Guide ](https://github.com/airbnb/javascript) 。
+2. [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)。
 
-3. [JavaScript Language Reference](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference) 。
+3. [JavaScript Design Patterns](http://www.dofactory.com/javascript/design-patterns) 。
 
-4. [developers google web](https://developers.google.com/web/) 。
+4. [JavaScript Design Patterns](https://www.joezimjs.com/javascript/javascript-design-patterns-singleton/)。
 
-5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide) 。
+5. [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/) 。
 
-6. [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns)。
 
-7. [JS函數式編程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details) 。
 
-8. [JavaScript Design Patterns](http://www.dofactory.com/javascript/design-patterns) 。
++ Functional Programming
 
-9. [Allen Chou/ Thinking in Commands: Part 1 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-1-of-2--active-3383) 。
+1. [JS函數式編程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details) 。
 
-10. [Allen Chou/ Thinking in Commands: Part 2 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-2-of-2--active-3537) 。
+2. [scott / FunctionalProgramming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)。
 
-11. [JavaScript Design Patterns](https://www.joezimjs.com/javascript/javascript-design-patterns-singleton/)。
+3. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
-12. [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/) 。
-
-13. [scott / FunctionalProgramming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)。
-
-14. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
-
-15. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
 * ES6 [+]
 
+
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
-* Video
 
-1. [ActionScript 3 星海爭霸學設計模式](https://www.youtube.com/playlist?list=PL8B19C3040F6381A2) 。
+* Other Language
+
+1. [Allen Chou/ Thinking in Commands: Part 1 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-1-of-2--active-3383) 。
+
+2. [Allen Chou/ Thinking in Commands: Part 2 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-2-of-2--active-3537) 。
+
+3. [ActionScript 3 星海爭霸學設計模式](https://www.youtube.com/playlist?list=PL8B19C3040F6381A2) 。
 
 
 ## Object inheritance
@@ -115,9 +115,13 @@
 
 1. [Clean JavaScript:寫出整潔的JavaScript代碼](https://segmentfault.com/a/1190000008039771#articleHeader0)。
 
+2. [Airbnb JavaScript Style Guide ](https://github.com/airbnb/javascript) 。
 
+3. [JavaScript Language Reference](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference) 。
 
+4. [developers google web](https://developers.google.com/web/) 。
 
+5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide) 。
 
 
 
