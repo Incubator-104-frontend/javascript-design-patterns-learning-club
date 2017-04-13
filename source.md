@@ -36,6 +36,10 @@
 
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
+* Video
+
+1. [ActionScript 3 星海爭霸學設計模式](https://www.youtube.com/playlist?list=PL8B19C3040F6381A2) 。
+
 
 ## Object inheritance
 
