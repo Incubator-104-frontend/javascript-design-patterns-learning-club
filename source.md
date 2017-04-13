@@ -1,10 +1,6 @@
+# 參考資料
 
-
-
-
-#參考資料
-
-ES 5:
+* ES 5:
 
 1. [javascript-patterns](http://shichuan.github.io/javascript-patterns/)。
 
@@ -36,7 +32,7 @@ ES 5:
 
 15. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
-ES6 [+]
+* ES6 [+]
 
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
@@ -59,7 +55,7 @@ ES6 [+]
 
 
 
-##React Pattern
+## React Pattern
 
 1. [reactpatterns](https://github.com/chantastic/reactpatterns.com)。
 
@@ -67,7 +63,7 @@ ES6 [+]
 
 
 
-##Redux Pattern
+## Redux Pattern
 
 1. [Redux and The Command Pattern](https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7)。
 
@@ -77,13 +73,13 @@ ES6 [+]
 
 
 
-##React Test
+## React Test
 
 1. [UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b)。
 
 
 
-##```this``` 指向，參考資料 (面試通常會被問到)
+## ```this``` 指向，參考資料 (面試通常會被問到)
 
 1. [javascript - this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)。
 
@@ -91,7 +87,7 @@ ES6 [+]
 
 
 
-##javascript 函式方法 bind，call，apply (面試通常會被問到)
+## javascript 函式方法 bind，call，apply (面試通常會被問到)
 
 1. [MDN doc - bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)。
 
@@ -101,17 +97,17 @@ ES6 [+]
 
 
 
-##javascript 型別檢查
+## javascript 型別檢查
 
 1. [javascript 型別檢查](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/typeof)。
 
 
-##es6 參考資料
+## es6 參考資料
 
 1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)。
 
 
-##Clean Code
+## Clean Code
 
 1. [Clean JavaScript:寫出整潔的JavaScript代碼](https://segmentfault.com/a/1190000008039771#articleHeader0)。
 
