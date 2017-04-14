@@ -65,6 +65,8 @@
 
 2. [vasanthk/react-bits](https://github.com/vasanthk/react-bits?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)。
 
+3. [Our Best Practices for Writing React Components](https://docs.wso2.com/display/AM200/apidocs/store/#!/operations#ApplicationCollection#applicationsGet)。
+
 
 
 ## Redux Pattern
