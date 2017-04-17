@@ -1,7 +1,5 @@
 # 參考資料
 
-* ES 5:
-
 + OOP 物件導向
 
 
@@ -25,6 +23,7 @@
 
 3. [Beth Allchurch / JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)。
 
+4. [Fun Fun Function](https://medium.com/humans-create-software)。
 
 * ES6 [+]
 
