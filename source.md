@@ -3,14 +3,17 @@
 ## 列表
 
 - [OOP 物件導向](#oop)
-- [Functional Programming](#functional-programming)
+- [Functional Programming 函式程式設計](#functional-programming)
+- [es6 相關](#es6)
+- [Other Language 其他語言範例](#other-language)
 
 
 
 
 
 
-## <a name="oop"></a>OOP 物件導向 
+
+## <a name="oop"></a>OOP 物件導向程式設計
 
 
   [wiki 物件導向](https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
@@ -28,7 +31,7 @@
 
 
 
-## <a name="functional-programming"></a>Functional Programming
+## <a name="functional-programming"></a>Functional Programming 函式程式設計
 
 1. [JS函數式編程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details) 。
 
@@ -40,13 +43,13 @@
 
 
 
-* ES6 [+]
+## <a name="es6"></a>ES6 [+]
 
 
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
 
-* Other Language
+## <a name="other-language"></a>Other Language 其他語言範例
 
 1. [Allen Chou/ Thinking in Commands: Part 1 of 2](https://code.tutsplus.com/tutorials/thinking-in-commands-part-1-of-2--active-3383) 。
 
