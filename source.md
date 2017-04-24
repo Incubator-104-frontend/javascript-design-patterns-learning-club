@@ -126,7 +126,7 @@
 
 
 
-## javascript 型別檢查
+## <a name="bind-call-apply"></a>Javascript 型別檢查
 
 1. [javascript 型別檢查](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/typeof)。
 
@@ -149,5 +149,7 @@
 5. [MDN JavaScript 指南](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide) 。
 
 
+## 書籍推薦
 
+1. 
 
