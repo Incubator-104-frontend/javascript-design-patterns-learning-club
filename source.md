@@ -1,6 +1,6 @@
 # 參考資料
 
-## 列表
+### 列表
 
 - [OOP 物件導向](#oop)
 - [Functional Programming 函式程式設計](#functional-programming)
