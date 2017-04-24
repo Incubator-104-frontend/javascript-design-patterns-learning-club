@@ -1,6 +1,6 @@
 # 參考資料
 
-##列表
+## 列表
 
 - [OOP 物件導向](#oop)
 - [Functional Programming](#functional-programming)
@@ -8,7 +8,9 @@
 
 
 
-+  <a name="oop"></a>OOP 物件導向 
+
+
+## <a name="oop"></a>OOP 物件導向 
 
 
   [wiki 物件導向](https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
@@ -26,7 +28,7 @@
 
 
 
-+ <a name="functional-programming"></a>Functional Programming
+## <a name="functional-programming"></a>Functional Programming
 
 1. [JS函數式編程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details) 。
 
