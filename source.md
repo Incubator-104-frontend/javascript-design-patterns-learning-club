@@ -5,14 +5,14 @@
 
 - [OOP 物件導向](#oop)
 - [Functional Programming 函式程式設計](#functional-programming)
-- [es6 相關](#es6)
+- [ES6 相關](#es6)
 - [Other Language 其他語言範例](#other-language)
 - [Object inheritance 物件的繼承](#object-inheritance)
 - [React Pattern](#react-pattern)
 - [Redux Pattern](#redux-pattern)
 - [React Test](#react-test)
 - [```this``` 指向，參考資料 (面試通常會被問到)](#about-this)
-- [javascript 函式方法 bind，call，apply (面試通常會被問到)](#bind-call-apply)
+- [Javascript 函式方法 bind，call，apply (面試通常會被問到)](#bind-call-apply)
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-## <a name="bind-call-apply"></a> javascript 函式方法 bind，call，apply (面試通常會被問到)
+## <a name="bind-call-apply"></a>Javascript 函式方法 bind，call，apply (面試通常會被問到)
 
 1. [MDN doc - bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)。
 
