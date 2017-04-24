@@ -1,12 +1,18 @@
 # 參考資料
 
+
 ### 列表
 
 - [OOP 物件導向](#oop)
 - [Functional Programming 函式程式設計](#functional-programming)
 - [es6 相關](#es6)
 - [Other Language 其他語言範例](#other-language)
-
+- [Object inheritance 物件的繼承](#object-inheritance)
+- [React Pattern](#react-pattern)
+- [Redux Pattern](#redux-pattern)
+- [React Test](#react-test)
+- [```this``` 指向，參考資料 (面試通常會被問到)](#about-this)
+- [javascript 函式方法 bind，call，apply (面試通常會被問到)](#bind-call-apply)
 
 
 
@@ -58,7 +64,7 @@
 3. [ActionScript 3 星海爭霸學設計模式](https://www.youtube.com/playlist?list=PL8B19C3040F6381A2) 。
 
 
-## Object inheritance
+## <a name="object-inheritance"></a>Object inheritance 物件的繼承
 
 1. [Object.create](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/create)。
 
@@ -76,7 +82,7 @@
 
 
 
-## React Pattern
+## <a name="react-pattern"></a>React Pattern 
 
 1. [reactpatterns](https://github.com/chantastic/reactpatterns.com)。
 
@@ -86,7 +92,7 @@
 
 
 
-## Redux Pattern
+## <a name="redux-pattern"></a>Redux Pattern
 
 1. [Redux and The Command Pattern](https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7)。
 
@@ -96,13 +102,13 @@
 
 
 
-## React Test
+## <a name="react-test"></a>React Test
 
 1. [UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b)。
 
 
 
-## ```this``` 指向，參考資料 (面試通常會被問到)
+## <a name="about-this"></a>```this``` 指向，參考資料 (面試通常會被問到)
 
 1. [javascript - this](https://software.intel.com/zh-cn/blogs/2013/10/09/javascript-this)。
 
@@ -110,7 +116,7 @@
 
 
 
-## javascript 函式方法 bind，call，apply (面試通常會被問到)
+## <a name="bind-call-apply"></a> javascript 函式方法 bind，call，apply (面試通常會被問到)
 
 1. [MDN doc - bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)。
 
