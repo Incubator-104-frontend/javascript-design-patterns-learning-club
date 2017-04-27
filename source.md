@@ -35,6 +35,8 @@
 
 5. [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/) 。
 
+6. [騰訊前端 Alloy Team](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+
 
 
 ## <a name="functional-programming"></a>Functional Programming 函式程式設計
