@@ -56,6 +56,11 @@
 
 1. [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9)。
 
+2. [JavaScript ES7 Function Bind Syntax](http://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/)。
+
+3. [Function Bind Syntax](https://babeljs.io/blog/2015/05/14/function-bind)。
+
+4. [ES7 Decorator 裝飾者模式](http://taobaofed.org/blog/2015/11/16/es7-decorator/)。
 
 ## <a name="other-language"></a>Other Language 其他語言範例
 
@@ -91,6 +96,8 @@
 2. [vasanthk/react-bits](https://github.com/vasanthk/react-bits?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)。
 
 3. [Our Best Practices for Writing React Components](https://docs.wso2.com/display/AM200/apidocs/store/#!/operations#ApplicationCollection#applicationsGet)。
+
+4. [Techniques for decomposing React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)。
 
 
 
